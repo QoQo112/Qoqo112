@@ -1,5 +1,5 @@
 ![Hey there, I'm David. Nice to meet you! 
-Check out my work]
+Check out my work](https://github.com/QoQo112/Qoqo112/blob/aaa35ee9c5fdf85a26605f4d4ec4cc4ba8effe74/4sec.gif)
 
 [![GitHub followers](https://img.shields.io/github/followers/QoQo112?logo=GitHub&style=for-the-badge)](https://github.com/QoQo112) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/QoQo112?logo=github&style=for-the-badge)](https://github.com/QoQo112) &nbsp;
 
