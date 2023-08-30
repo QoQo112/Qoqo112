@@ -5,7 +5,7 @@ Check out my work](https://github.com/QoQo112/Qoqo112/blob/aaa35ee9c5fdf85a26605
 
 # 👋 &nbsp;About me
 
-📚 I'm pursuing a Master degree in Computer Science at Rice University. Feel free to connect with me via <a href="https://www.linkedin.com/in/wei-li-david-liu-0a3254165/" target="_blank" rel="nofollow">LinkedIn</a> any time. You can also check out my website [David.io (http://weili-liu.com)] for my projects and more.
+📚 I'm pursuing a Master degree in Computer Science at Rice University. Feel free to connect with me via <a href="https://www.linkedin.com/in/wei-li-david-liu-0a3254165/" target="_blank" rel="nofollow">LinkedIn</a> any time. You can also check out my website [David.io](http://weili-liu.com) for my projects and more.
 
 - 📖 I’m currently learning **Software Engineering, and Application Development.**
 - 👨‍💻 Interested in **Web Development, Mobile Application Development, and AI**.
